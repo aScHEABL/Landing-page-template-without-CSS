@@ -1,5 +1,5 @@
 body{
-    height: 100vh;
+    height: fit-content;
     font-family: 'Roboto', sans-serif;
     margin: 0px;
     display: flex;
@@ -78,7 +78,7 @@ a{
 }
 
 
-#header-main-text{
+.main-text{
     font-size: 48px;
     font-weight: 800;
     color: #E5E7EB;
@@ -219,4 +219,56 @@ a{
     text-align: end;
     padding-right: 250px;
     margin: 0px;
+}
+
+
+.blue-sign-up-section{
+    order: 5;
+    display: flex;
+    width: 1000px;
+    height: 150px;
+    flex-wrap: wrap;
+    background-color: #3882f6;
+    border-radius: 10px;
+    align-content: center;
+    justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 128px;
+}
+
+
+.blue-sign-up-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+
+.blue-sign-up-heading{
+    order: 1;
+    flex: 1 0 100%;
+    font-size: 30px;
+    font-weight: 900;
+    color: #f9faf8;
+    margin: 0px;
+    padding-left: 100px;
+}
+
+
+.blue-sign-up-subtext{
+    order: 2;
+    color:  #f9faf8;
+    font-size: 18px;
+    margin: 0px;
+    padding-left: 100px;
+}
+
+
+#blue-sign-up-button-2{
+    order: 3;
+    border-width: 2px;
+    border-color: #E5E7EB;
+    border-style: solid;
+    padding: 4px 32px 4px 32px;
+    margin-left: 150px;
 }

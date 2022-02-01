@@ -233,7 +233,7 @@ a{
     align-content: center;
     justify-content: center;
     margin-top: 32px;
-    margin-bottom: 128px;
+    margin-bottom: 32px;
 }
 
 
@@ -271,4 +271,22 @@ a{
     border-style: solid;
     padding: 4px 32px 4px 32px;
     margin-left: 150px;
+}
+
+
+footer{
+    order: 6;
+    flex-basis: 100%;
+    height: 100px;
+    display: flex;
+    background-color: #1f2937;
+    justify-content: center;
+}
+
+
+.footer-text{
+    text-align: center;
+    align-self: center;
+    color: #E5E7EB;
+    font-size: 18px;
 }

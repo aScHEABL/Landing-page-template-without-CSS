@@ -1,2 +1,1 @@
-My second project on the TOP. Enjoy.\
-Page link:https://ascheabl.github.io/landing-page/
+[Live Demo](https://ascheabl.github.io/landing-page/) 👈

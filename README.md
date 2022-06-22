@@ -2,7 +2,7 @@
 
 This is the landing page project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) <br>
 
-[Demo](https://ascheabl.github.io/Landing-page-template/) 👈 <br>
+[Live Demo](https://ascheabl.github.io/Landing-page-template/) 👈 <br>
 
 ## Built with <br>
 #### Technologies <br>

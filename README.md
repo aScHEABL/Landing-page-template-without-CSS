@@ -1,8 +1,8 @@
-# Landing Page
+# Landing Page Without CSS
 
-This is the landing page project from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page) <br>
+This is a demostration of what would happen if CSS is not applied on  [Landing Page Template](https://github.com/aScHEABL/Landing-page-template) <br>
 
-[Live Demo](https://ascheabl.github.io/Landing-page-template/) 👈 <br>
+[Live Demo](https://ascheabl.github.io/Landing-page-template-without-CSS/) 👈 <br>
 
 ## Built with <br>
 #### Technologies <br>

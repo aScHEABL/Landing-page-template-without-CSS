@@ -1,6 +1,6 @@
 # Landing Page Without CSS
 
-This is a demostration of what would happen if CSS is not applied on  [Landing Page Template](https://github.com/aScHEABL/Landing-page-template) <br>
+This is a demonstration of what would happen if CSS is not applied on  [Landing Page Template](https://github.com/aScHEABL/Landing-page-template) <br>
 
 [Live Demo](https://ascheabl.github.io/Landing-page-template-without-CSS/) 👈 <br>
 

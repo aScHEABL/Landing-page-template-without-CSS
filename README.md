@@ -13,7 +13,7 @@ This is a demonstration of what would happen if CSS is not applied on  [Landing 
 ## Tools <br>
 
 - Visual Studio Code <br>
-- Linux terminal <br>
+- Linux <br>
 - Git and Github <br>
 
 ## Outcome <br>
